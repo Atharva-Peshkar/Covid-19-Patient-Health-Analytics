@@ -1,0 +1,223 @@
+﻿id,location,country,gender,age,sym_on,hosp_vis,vis_wuhan,from_wuhan,death,symptom1,symptom2,symptom3,symptom4,symptom5,symptom6
+49,"Wuhan, Hubei",China,male,61,12/20/2019,12/27/2019,0,1,1,NA,NA,NA,NA,NA,NA
+50,"Wuhan, Hubei",China,male,69,12/30/2019,1/3/2020,0,1,1,NA,NA,NA,NA,NA,NA
+51,"Wuhan, Hubei",China,male,89,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA
+52,"Wuhan, Hubei",China,male,89,1/13/2020,1/13/2020,0,1,1,NA,NA,NA,NA,NA,NA
+53,"Wuhan, Hubei",China,male,66,1/10/2020,1/16/2020,0,1,1,NA,NA,NA,NA,NA,NA
+54,"Wuhan, Hubei",China,male,75,1/12/2020,1/11/2020,0,1,1,NA,NA,NA,NA,NA,NA
+55,"Wuhan, Hubei",China,female,48,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA
+56,"Wuhan, Hubei",China,male,82,1/9/2020,1/14/2020,0,1,1,NA,NA,NA,NA,NA,NA
+57,"Wuhan, Hubei",China,male,66,12/22/2019,12/31/2019,0,1,1,NA,NA,NA,NA,NA,NA
+58,"Wuhan, Hubei",China,male,81,1/15/2020,1/18/2020,0,1,1,NA,NA,NA,NA,NA,NA
+59,"Wuhan, Hubei",China,female,82,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA
+60,"Wuhan, Hubei",China,male,65,1/5/2020,1/11/2020,0,1,1,NA,NA,NA,NA,NA,NA
+61,"Wuhan, Hubei",China,female,80,1/9/2020,1/18/2020,0,1,1,NA,NA,NA,NA,NA,NA
+62,"Wuhan, Hubei",China,male,53,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA
+63,"Wuhan, Hubei",China,male,86,1/2/2020,1/9/2020,0,1,1,NA,NA,NA,NA,NA,NA
+64,"Wuhan, Hubei",China,female,70,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA
+65,"Wuhan, Hubei",China,male,84,1/6/2020,1/9/2020,0,1,1,NA,NA,NA,NA,NA,NA
+82,Hubei,China,female,85,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+83,Hubei,China,female,69,1/14/2020,1/20/2020,0,0,1,NA,NA,NA,NA,NA,NA
+84,Hubei,China,male,36,1/6/2020,1/9/2020,0,0,1,NA,NA,NA,NA,NA,NA
+85,Hubei,China,male,73,12/29/2019,1/5/2020,0,0,1,NA,NA,NA,NA,NA,NA
+86,Hubei,China,female,70,1/15/2020,1/18/2020,0,0,1,NA,NA,NA,NA,NA,NA
+87,Hubei,China,male,81,1/9/2020,1/13/2020,0,0,1,NA,NA,NA,NA,NA,NA
+88,Hubei,China,female,65,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+100,"Wuhan, Hubei",China,male,70,1/15/2020,1/19/2020,0,1,1,NA,NA,NA,NA,NA,NA
+101,"Wuhan, Hubei",China,female,76,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA
+102,"Wuhan, Hubei",China,male,72,1/11/2020,1/18/2020,0,1,1,NA,NA,NA,NA,NA,NA
+103,"Wuhan, Hubei",China,male,79,1/11/2020,1/17/2020,0,1,1,NA,NA,NA,NA,NA,NA
+104,"Wuhan, Hubei",China,male,55,1/9/2020,1/19/2020,0,1,1,NA,NA,NA,NA,NA,NA
+105,"Wuhan, Hubei",China,male,87,1/12/2020,1/19/2020,0,1,1,NA,NA,NA,NA,NA,NA
+106,"Wuhan, Hubei",China,female,66,1/9/2020,1/19/2020,0,1,1,NA,NA,NA,NA,NA,NA
+107,"Wuhan, Hubei",China,male,58,1/3/2020,1/18/2020,0,1,1,NA,NA,NA,NA,NA,NA
+108,"Wuhan, Hubei",China,male,66,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA
+109,"Wuhan, Hubei",China,male,78,1/13/2020,1/23/2020,0,1,1,NA,NA,NA,NA,NA,NA
+110,"Wuhan, Hubei",China,male,67,1/10/2020,1/15/2020,0,1,1,NA,NA,NA,NA,NA,NA
+111,"Wuhan, Hubei",China,male,65,1/12/2020,1/16/2020,0,1,1,NA,NA,NA,NA,NA,NA
+112,"Wuhan, Hubei",China,male,58,12/23/2019,1/1/2020,0,1,1,NA,NA,NA,NA,NA,NA
+113,"Wuhan, Hubei",China,female,67,1/5/2020,1/12/2020,0,1,1,NA,NA,NA,NA,NA,NA
+114,"Wuhan, Hubei",China,female,82,1/10/2020,1/17/2020,0,1,1,NA,NA,NA,NA,NA,NA
+195,Hubei,China,female,28,1/7/2020,1/10/2020,0,1,0,fever, cough, difficult in breathing,NA,NA,NA
+196,Hubei,China,female,51,NA,NA,0,1,0,fever, cough, difficult in breathing,NA,NA,NA
+197,Shandong,China,male,37,NA,NA,0,1,0,fever,NA,NA,NA,NA,NA
+199,Paris,France,male,31,1/19/2020,1/25/2020,0,1,0,NA,NA,NA,NA,NA,NA
+200,Paris,France,female,30,1/23/2020,1/25/2020,0,1,0,NA,NA,NA,NA,NA,NA
+201,Paris,France,male,80,1/25/2020,1/25/2020,0,1,1,NA,NA,NA,NA,NA,NA
+214,Paris,France,male,60,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+237,Kanagawa,Japan,male,35,1/3/2020,1/6/2020,1,0,0,fever,NA,NA,NA,NA,NA
+263,Kanagawa,Japan,female,85,1/22/2020,1/28/2020,0,0,1,fatigue,NA,NA,NA,NA,NA
+267,Japan,Japan,male,75,2/1/2020,2/6/2020,0,0,1,cold, fever, pneumonia,NA,NA,NA
+292,Tokyo,Japan,male,85,NA,NA,0,0,1,fever, pneumonia,NA,NA,NA,NA
+316,Hokkaido,Japan,male,5,2/15/2020,2/17/2020,0,0,0,fever,NA,NA,NA,NA,NA
+317,Hokkaido,Japan,male,15,2/18/2020,2/19/2020,0,0,0,NA,NA,NA,NA,NA,NA
+318,Hokkaido,Japan,female,45,2/16/2020,2/18/2020,0,0,0,fever,NA,NA,NA,NA,NA
+319,Ishikawa,Japan,male,55,2/16/2020,2/16/2020,0,0,0,fever,NA,NA,NA,NA,NA
+320,Saitama Prefecture,Japan,NA,5,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+321,Tokyo,Japan,female,55,NA,NA,0,0,0,fever, cough, sputum,NA,NA,NA
+322,Tokyo,Japan,female,75,NA,NA,0,0,0,fever, cough, malaise,NA,NA,NA
+323,Tokyo,Japan,female,55,NA,NA,0,0,0,fatigue,NA,NA,NA,NA,NA
+324,Chiba Prefecture,Japan,male,65,2/6/2020,2/9/2020,0,0,0,fatigue, loss of appetite,NA,NA,NA,NA
+325,Sagamihara,Japan,male,85,2/18/2020,2/19/2020,0,0,0,NA,NA,NA,NA,NA,NA
+326,Nagoya City,Japan,male,75,2/19/2020,2/21/2020,0,0,0,fever, cough,NA,NA,NA,NA
+327,Nagoya City,Japan,female,25,2/20/2020,2/21/2020,0,0,0,fever, cough, breathlessness,NA,NA,NA
+335,Hokkaido,Japan,male,85,2/3/2020,2/3/2020,0,0,1,difficulty breathing,NA,NA,NA,NA,NA
+390,Hokkaido,Japan,NA,NA,2/16/2020,2/17/2020,0,0,1,cough,NA,NA,NA,NA,NA
+427,Johor,Malaysia,male,40,1/23/2020,1/23/2020,0,1,0,NA,NA,NA,NA,NA,NA
+428,Johor,Malaysia,female,65,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+429,Johor,Malaysia,male,11,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+430,Johor,Malaysia,male,2,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+431,Langkawi,Malaysia,female,4,NA,NA,0,0,0,fever, cough, flu,NA,NA,NA
+432,Johor,Malaysia,female,36,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+433,Johor,Malaysia,male,52,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+434,Johor,Malaysia,female,49,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+435,Malaysia,Malaysia,male,41,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+436,Malaysia,Malaysia,male,63,NA,NA,0,1,0,fever,NA,NA,NA,NA,NA
+437,Malaysia,Malaysia,male,45,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+438,Malaysia,Malaysia,male,9,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+441,Johor,Malaysia,female,59,NA,NA,0,1,0,fever,NA,NA,NA,NA,NA
+442,Malaysia,Malaysia,female,67,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA
+443,Malaysia,Malaysia,female,65,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+444,Malaysia,Malaysia,male,31,NA,NA,0,0,0,cough,NA,NA,NA,NA,NA
+446,Malaysia,Malaysia,male,27,2/13/2020,2/13/2020,0,0,0,fever,NA,NA,NA,NA,NA
+447,Malaysia,Malaysia,female,32,NA,NA,0,0,0,sore throat,NA,NA,NA,NA,NA
+448,Malaysia,Malaysia,female,83,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+450,Kathmandu,Nepal,male,32,1/3/2020,1/13/2020,0,1,0,NA,NA,NA,NA,NA,NA
+451,Singapore,Singapore,male,66,1/21/2020,1/22/2020,0,1,0,NA,NA,NA,NA,NA,NA
+452,Singapore,Singapore,female,53,1/21/2020,1/22/2020,0,1,0,fever, cough, chills,NA,NA,NA
+453,Singapore,Singapore,male,37,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA
+454,Singapore,Singapore,male,36,1/23/2020,1/24/2020,0,1,0,NA,NA,NA,NA,NA,NA
+455,Singapore,Singapore,female,56,1/24/2020,1/26/2020,0,1,0,NA,NA,NA,NA,NA,NA
+456,Singapore,Singapore,male,56,1/25/2020,1/26/2020,0,1,0,NA,NA,NA,NA,NA,NA
+457,Singapore,Singapore,male,35,1/24/2020,1/24/2020,0,1,0,NA,NA,NA,NA,NA,NA
+458,Singapore,Singapore,female,56,1/24/2020,1/27/2020,1,0,0,NA,NA,NA,NA,NA,NA
+459,Singapore,Singapore,male,56,1/24/2020,1/27/2020,1,0,0,NA,NA,NA,NA,NA,NA
+460,Singapore,Singapore,male,56,1/21/2020,1/28/2020,1,0,0,NA,NA,NA,NA,NA,NA
+461,Singapore,Singapore,female,31,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA
+462,Singapore,Singapore,female,37,1/26/2020,1/29/2020,0,1,0,NA,NA,NA,NA,NA,NA
+463,Singapore,Singapore,female,73,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA
+464,Singapore,Singapore,male,31,1/28/2020,1/30/2020,1,0,0,NA,NA,NA,NA,NA,NA
+465,Singapore,Singapore,female,47,1/30/2020,1/30/2020,1,0,0,fever,NA,NA,NA,NA,NA
+466,Singapore,Singapore,male,38,1/23/2020,1/29/2020,1,0,0,NA,NA,NA,NA,NA,NA
+467,Singapore,Singapore,female,47,1/30/2020,1/30/2020,1,0,0,fever,NA,NA,NA,NA,NA
+469,Singapore,Singapore,female,28,1/29/2020,2/3/2020,0,0,0,fever, sore throat,NA,NA,NA,NA
+471,Singapore,Singapore,female,44,2/2/2020,2/3/2020,0,0,0,NA,NA,NA,NA,NA,NA
+472,Singapore,Singapore,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+473,Singapore,Singapore,NA,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+474,Singapore,Singapore,female,32,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+475,Singapore,Singapore,male,NA,1/24/2020,2/3/2020,0,0,0,fever,NA,NA,NA,NA,NA
+476,Singapore,Singapore,female,42,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+477,Singapore,Singapore,male,0.5,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+478,Singapore,Singapore,male,45,2/1/2020,2/2/2020,0,0,0,NA,NA,NA,NA,NA,NA
+479,Singapore,Singapore,male,41,1/28/2020,1/29/2020,0,0,0,fever,NA,NA,NA,NA,NA
+480,Singapore,Singapore,male,27,1/21/2020,1/28/2020,0,0,0,NA,NA,NA,NA,NA,NA
+481,Singapore,Singapore,male,53,1/23/2020,1/23/2020,0,0,0,NA,NA,NA,NA,NA,NA
+482,Singapore,Singapore,female,42,2/2/2020,2/5/2020,0,0,0,NA,NA,NA,NA,NA,NA
+483,Singapore,Singapore,female,39,1/30/2020,2/2/2020,0,0,0,NA,NA,NA,NA,NA,NA
+484,Singapore,Singapore,female,40,1/27/2020,1/27/2020,0,0,0,NA,NA,NA,NA,NA,NA
+486,Singapore,Singapore,female,38,1/24/2020,2/1/2020,0,0,0,NA,NA,NA,NA,NA,NA
+488,Singapore,Singapore,female,52,2/3/2020,2/4/2020,0,0,0,NA,NA,NA,NA,NA,NA
+489,Singapore,Singapore,male,51,1/29/2020,2/3/2020,0,0,0,NA,NA,NA,NA,NA,NA
+490,Singapore,Singapore,male,36,1/30/2020,1/30/2020,0,0,0,NA,NA,NA,NA,NA,NA
+494,Singapore,Singapore,male,37,1/31/2020,2/2/2020,0,0,0,NA,NA,NA,NA,NA,NA
+495,Singapore,Singapore,female,2,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+496,Singapore,Singapore,male,35,2/5/2020,2/9/2020,0,0,0,NA,NA,NA,NA,NA,NA
+498,Singapore,Singapore,male,34,2/1/2020,2/2/2020,0,0,0,NA,NA,NA,NA,NA,NA
+499,Singapore,Singapore,male,46,2/3/2020,2/8/2020,0,0,0,NA,NA,NA,NA,NA,NA
+500,Singapore,Singapore,male,62,2/7/2020,2/7/2020,0,0,0,NA,NA,NA,NA,NA,NA
+501,Singapore,Singapore,male,48,2/4/2020,2/5/2020,0,0,0,NA,NA,NA,NA,NA,NA
+505,Singapore,Singapore,male,30,1/30/2020,1/30/2020,0,0,0,NA,NA,NA,NA,NA,NA
+506,Singapore,Singapore,male,30,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+507,Singapore,Singapore,male,26,2/11/2020,2/11/2020,0,0,0,NA,NA,NA,NA,NA,NA
+508,Singapore,Singapore,male,55,2/10/2020,2/12/2020,0,0,0,NA,NA,NA,NA,NA,NA
+509,Singapore,Singapore,male,61,2/7/2020,2/10/2020,0,0,0,NA,NA,NA,NA,NA,NA
+512,Singapore,Singapore,female,44,2/9/2020,2/9/2020,0,0,0,NA,NA,NA,NA,NA,NA
+513,Singapore,Singapore,female,54,2/10/2020,2/13/2020,0,0,0,NA,NA,NA,NA,NA,NA
+514,Singapore,Singapore,male,50,2/3/2020,2/5/2020,0,0,0,NA,NA,NA,NA,NA,NA
+515,Singapore,Singapore,female,61,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+516,Singapore,Singapore,male,28,1/29/2020,2/2/2020,0,0,0,NA,NA,NA,NA,NA,NA
+520,Singapore,Singapore,female,27,2/3/2020,2/3/2020,0,0,0,NA,NA,NA,NA,NA,NA
+523,Singapore,Singapore,male,43,2/9/2020,2/10/2020,0,0,0,NA,NA,NA,NA,NA,NA
+526,Singapore,Singapore,male,1,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+527,Singapore,Singapore,male,35,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+531,Singapore,Singapore,male,50,2/16/2020,2/17/2020,0,0,0,NA,NA,NA,NA,NA,NA
+533,Singapore,Singapore,male,54,1/28/2020,2/1/2020,0,0,0,NA,NA,NA,NA,NA,NA
+534,Singapore,Singapore,female,35,2/4/2020,2/4/2020,0,0,0,NA,NA,NA,NA,NA,NA
+537,Singapore,Singapore,male,32,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+541,Singapore,Singapore,female,58,1/23/2020,2/1/2020,0,0,0,NA,NA,NA,NA,NA,NA
+544,South Korea,South Korea,female,35,1/18/2020,1/19/2020,0,1,0,high fever, chills, muscle pain,NA,NA,NA
+545,South Korea,South Korea,male,55,1/10/2020,1/19/2020,1,0,0,fever, sore throat,NA,NA,NA,NA
+549,South Korea,South Korea,male,56,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+552,South Korea,South Korea,female,28,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+553,South Korea,South Korea,female,52,NA,NA,0,0,0,headache,NA,NA,NA,NA,NA
+555,South Korea,South Korea,male,48,2/1/2020,2/1/2020,0,0,0,NA,NA,NA,NA,NA,NA
+556,South Korea,South Korea,male,28,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+557,Seoul,South Korea,female,40,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+558,South Korea,South Korea,male,43,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+559,South Korea,South Korea,female,42,NA,NA,0,0,0,chills,NA,NA,NA,NA,NA
+561,South Korea,South Korea,female,21,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+563,South Korea,South Korea,female,41,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+565,South Korea,South Korea,male,46,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+567,South Korea,South Korea,male,28,NA,NA,1,0,0,sore throat,NA,NA,NA,NA,NA
+568,South Korea,South Korea,female,73,NA,NA,0,0,0,fever, cough, sore throat,NA,NA,NA
+580,South Korea,South Korea,male,49,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+581,South Korea,South Korea,female,57,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+594,South Korea,South Korea,female,61,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+597,South Korea,South Korea,male,57,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+598,South Korea,South Korea,male,59,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+606,South Korea,South Korea,female,52,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+608,South Korea,South Korea,female,50,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+649,South Korea,South Korea,male,74,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+651,South Korea,South Korea,male,62,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+652,South Korea,South Korea,male,58,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+654,South Korea,South Korea,male,41,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+655,South Korea,South Korea,male,36,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+657,South Korea,South Korea,male,75,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+676,Taiwan,Taiwan,male,65,1/27/2020,2/3/2020,0,0,1,cough, shortness of breath,NA,NA,NA,NA
+694,Thailand,Thailand,male,68,1/19/2020,1/19/2020,1,0,0,fever,NA,NA,NA,NA,NA
+695,Thailand,Thailand,female,73,1/13/2020,1/13/2020,1,0,0,fever,NA,NA,NA,NA,NA
+696,Thailand,Thailand,male,NA,1/19/2020,1/19/2020,1,0,0,fever,NA,NA,NA,NA,NA
+711,Thailand,Thailand,male,50,1/20/2020,1/23/2020,0,0,0,NA,NA,NA,NA,NA,NA
+733,Washington,USA,male,35,1/16/2020,1/19/2020,1,0,0,NA,NA,NA,NA,NA,NA
+734,Illinois,USA,female,61,1/16/2020,1/16/2020,1,0,0,NA,NA,NA,NA,NA,NA
+738,Illinois,USA,male,65,1/28/2020,1/28/2020,0,0,0,NA,NA,NA,NA,NA,NA
+751,Ho Chi Minh City,Vietnam,male,66,1/17/2020,1/17/2020,0,1,0,fever,NA,NA,NA,NA,NA
+752,Ho Chi Minh City,Vietnam,male,28,NA,NA,0,0,0,fever,NA,NA,NA,NA,NA
+759,Vinh Phuc,Vietnam,male,30,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+760,Vinh Phuc,Vietnam,female,42,NA,NA,0,0,0,fever,NA,NA,NA,NA,NA
+761,Vinh Phuc,Vietnam,female,16,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+763,Vinh Phuc,Vietnam,female,29,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+764,Vinh Phuc,Vietnam,female,55,NA,NA,0,0,0,fever, headache, runny nose,NA,NA,NA
+765,Vinh Phuc,Vietnam,NA,0.25,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+767,NSW,Australia,male,35,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+768,NSW,Australia,male,43,1/24/2020,1/24/2020,1,0,0,NA,NA,NA,NA,NA,NA
+769,NSW,Australia,male,53,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+771,NSW,Australia,female,21,1/24/2020,1/24/2020,1,0,0,NA,NA,NA,NA,NA,NA
+782,Toronto,Canada,male,56,NA,NA,1,0,0,fever, cough,NA,NA,NA,NA
+785,Toronto,Canada,female,25,1/24/2020,1/24/2020,1,0,0,NA,NA,NA,NA,NA,NA
+795,Sri Lanka,Sri Lanka,female,40,1/25/2020,1/25/2020,0,1,0,fever,NA,NA,NA,NA,NA
+850,UAE,UAE,female,73,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA
+851,UAE,UAE,female,36,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA
+852,UAE,UAE,male,41,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA
+853,UAE,UAE,male,8,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA
+875,Hong Kong,Hong Kong,male,63,1/23/2020,1/23/2020,0,1,0,fever, cough,NA,NA,NA,NA
+883,Kowloon,Hong Kong,male,39,1/31/2020,1/31/2020,1,0,1,myalgia, fever,NA,NA,NA,NA
+888,Kowloon,Hong Kong,male,25,1/28/2020,1/29/2020,0,0,0,cough, runny nose, diarrhea,NA,NA,NA
+925,Hong Kong,Hong Kong,male,70,2/2/2020,2/12/2020,0,0,1,cough,NA,NA,NA,NA,NA
+968,Tyumen,Russia,female,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+969,Zabaikalsky,Russia,male,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA
+972,London,UK,male,53,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+973,London,UK,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+974,London,UK,male,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+975,London,UK,male,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+976,London,UK,male,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+977,London,UK,female,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+993,Manila,Phillipines,male,44,1/25/2020,1/25/2020,0,1,1,fever, cough, sore throat,NA,NA,NA
+994,Manila,Phillipines,female,38,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA
+997,Canary Islands,Spain,male,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+998,Mallorca,Spain,male,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+1033,Egypt,Egypt,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA
+1034,Qom,Iran,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+1035,Qom,Iran,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+1036,Qom,Iran,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
+1037,Qom,Iran,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA,NA
